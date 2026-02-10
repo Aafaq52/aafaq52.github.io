@@ -1,0 +1,412 @@
+{
+  "profile": {
+    "firstName": "Aafaq",
+    "lastName": "Sabir",
+    "title": "PhD Student",
+    "profileImage": "images/aafaq_profile.jpeg",
+    "cvLink": "CV_Aafaq.pdf",
+    "institution": "NC STATE",
+    "institutionUrl": "https://www.csc.ncsu.edu/",
+    "affiliation": {
+      "name": "North Carolina State University",
+      "url": "https://ncsu.edu"
+    },
+    "email": {
+      "user": "asabir2",
+      "domain": "ncsu",
+      "tld": "edu"
+    },
+    "scholar": "https://scholar.google.com/citations?user=MIZxvkUAAAAJ&hl=en",
+    "github": "https://github.com/Aafaq52",
+    "linkedin": "https://www.linkedin.com/in/aafaqsabir/",
+    "twitter": "https://twitter.com/AafaqSabir",
+    "bio": "I am a PhD Computer Science student at <a href=\"https://ncsu.edu\" target=\"_blank\" rel=\"noopener\">North Carolina State University</a> advised by <a href=\"https://anupamdas.org\" target=\"_blank\" rel=\"noopener\">Dr. Anupam Das</a>. I am a member of the <a href=\"https://wspr.csc.ncsu.edu/\" target=\"_blank\" rel=\"noopener\">Wolfpack Security and Privacy Research (WSPR)</a> Lab at NC State's Computer Science department. Previously, I graduated with BS(CS) from <a href=\"https://lums.edu.pk/\" target=\"_blank\" rel=\"noopener\">Lahore University of Management Sciences</a> in 2020."
+  },
+  "news": [
+    {
+      "date": "Jan 2026",
+      "icon": "🎉",
+      "text": "Our paper <strong>\"Privacy by Voice: Designing Usable Privacy Notices for the Voice Interface\"</strong> has been accepted at <strong>PETS 2026</strong>!"
+    },
+    {
+      "date": "Nov 2025",
+      "icon": "🏆",
+      "text": "Our paper <strong>\"PriVA-C: Defending Voice Assistants from Fingerprinting Attacks\"</strong> received the <strong>Best Paper Runner-Up Award</strong> at PETS 2026!"
+    }
+  ],
+  "education": [
+    {
+      "institution": "North Carolina State University (NCSU)",
+      "url": "https://ncsu.edu",
+      "degree": "Ph.D. Computer Science",
+      "gpa": "4.0/4.0",
+      "date": "August 2021 — August 2026 (Expected)",
+      "advisor": "Dr. Anupam Das",
+      "details": [
+        "Ph.D. Proposal Defense: Passed Fall 2025",
+        "MS Computer Science (CGPA: 4.0/4.0) — Fall 2024"
+      ]
+    },
+    {
+      "institution": "Lahore University of Management Sciences (LUMS)",
+      "url": "https://lums.edu.pk",
+      "degree": "BS Computer Science",
+      "gpa": "3.57/4.0",
+      "date": "August 2016 — May 2020",
+      "details": []
+    }
+  ],
+  "research": {
+    "description": "My research focuses on <strong>security and privacy</strong>, particularly in the context of <strong>smart home devices</strong> and <strong>voice assistants</strong>. I examine how these systems interact with user expectations and behaviors, with a focus on understanding the gap between user mental models and actual system behavior.",
+    "interests": [
+      {
+        "title": "Voice Assistant Security & Privacy",
+        "detail": "Investigating fingerprinting attacks on voice assistants, defending against traffic analysis, and understanding misactivation behavior."
+      },
+      {
+        "title": "Smart Home Ecosystems",
+        "detail": "Analyzing ad prevalence and compliance in Alexa Skills, studying user perception and awareness of third-party ecosystem risks."
+      },
+      {
+        "title": "User-Centered Security",
+        "detail": "Understanding attitudes towards IoT adoption, investigating harassment and safety mechanisms in VR, and analyzing ad-tracking inference processes."
+      }
+    ]
+  },
+  "publications": [
+    {
+      "id": "P1",
+      "year": 2026,
+      "title": "Privacy by Voice: Designing Usable Privacy Notices for the Voice Interface",
+      "url": "#",
+      "authors": "<span class=\"me\">Aafaq Sabir</span>, Abhinaya S.B., Dilawer Ahmed, and Anupam Das.",
+      "venueShort": "PETS",
+      "venueFull": "Proceedings of the 26th Privacy Enhancing Technologies Symposium",
+      "venueExtra": "2026",
+      "links": {},
+      "bibtex": "@inproceedings{sabir2026privacy,\n  title     = {Privacy by Voice: Designing Usable Privacy Notices for the Voice Interface},\n  author    = {Sabir, Aafaq and Abhinaya, S.B. and Ahmed, Dilawer and Das, Anupam},\n  booktitle = {Proceedings of the 26th Privacy Enhancing Technologies Symposium (PETS)},\n  year      = {2026}\n}"
+    },
+    {
+      "id": "P2",
+      "year": 2026,
+      "title": "PriVA-C: Defending Voice Assistants from Fingerprinting Attacks",
+      "url": "https://aafaqsabir.org/",
+      "authors": "Dilawer Ahmed, <span class=\"me\">Aafaq Sabir</span>, Ahsan Zafar, and Anupam Das.",
+      "venueShort": "PETS",
+      "venueFull": "Proceedings of the 26th Privacy Enhancing Technologies Symposium",
+      "venueExtra": "2026",
+      "award": "Best Paper Runner-Up Award",
+      "links": {
+        "pdf": "https://aafaqsabir.org/",
+        "code": "https://github.com/Aafaq52/PriVA-C"
+      },
+      "bibtex": "@inproceedings{ahmed2026privac,\n  title     = {PriVA-C: Defending Voice Assistants from Fingerprinting Attacks},\n  author    = {Ahmed, Dilawer and Sabir, Aafaq and Zafar, Ahsan and Das, Anupam},\n  booktitle = {Proceedings of the 26th Privacy Enhancing Technologies Symposium (PETS)},\n  year      = {2026}\n}"
+    },
+    {
+      "id": "P3",
+      "year": 2025,
+      "title": "Analyzing Ad Prevalence, Characteristics, and Compliance in Alexa Skills",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11023310/",
+      "authors": "<span class=\"me\">Aafaq Sabir</span>, Abhinaya S.B., Dilawer Ahmed, and Anupam Das.",
+      "venueShort": "IEEE S&P",
+      "venueFull": "2025 IEEE Symposium on Security and Privacy",
+      "venueExtra": "San Francisco, CA, USA, pp. 4321–4339",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/11023310/"
+      },
+      "bibtex": "@inproceedings{sabir2025analyzing,\n  title     = {Analyzing Ad Prevalence, Characteristics, and Compliance in Alexa Skills},\n  author    = {Sabir, Aafaq and S.B., Abhinaya and Ahmed, Dilawer and Das, Anupam},\n  booktitle = {2025 IEEE Symposium on Security and Privacy (SP)},\n  pages     = {4321--4339},\n  year      = {2025},\n  address   = {San Francisco, CA, USA},\n  publisher = {IEEE}\n}"
+    },
+    {
+      "id": "P4",
+      "year": 2024,
+      "title": "Enabling Developers, Protecting Users: Investigating Harassment and Safety in VR",
+      "url": "https://www.usenix.org/system/files/usenixsecurity24-sb.pdf",
+      "authors": "S.B. Abhinaya, <span class=\"me\">Aafaq Sabir</span>, and Anupam Das.",
+      "venueShort": "USENIX Sec",
+      "venueFull": "Proceedings of the 33rd USENIX Security Symposium",
+      "venueExtra": "August 14–16, 2024, Philadelphia, PA, USA",
+      "links": {
+        "pdf": "https://www.usenix.org/system/files/usenixsecurity24-sb.pdf"
+      },
+      "bibtex": "@inproceedings{abhinaya2024enabling,\n  title     = {Enabling Developers, Protecting Users: Investigating Harassment and Safety in VR},\n  author    = {Abhinaya, S.B. and Sabir, Aafaq and Das, Anupam},\n  booktitle = {Proceedings of the 33rd USENIX Security Symposium},\n  year      = {2024},\n  address   = {Philadelphia, PA, USA}\n}"
+    },
+    {
+      "id": "P5",
+      "year": 2023,
+      "title": "Spying through Your Voice Assistants: Realistic Voice Command Fingerprinting",
+      "url": "https://www.usenix.org/conference/usenixsecurity23/presentation/ahmed-dilawer",
+      "authors": "Dilawer Ahmed, <span class=\"me\">Aafaq Sabir</span>, and Anupam Das.",
+      "venueShort": "USENIX Sec",
+      "venueFull": "32nd USENIX Security Symposium",
+      "venueExtra": "pp. 2419–2436, 2023",
+      "links": {
+        "pdf": "https://www.usenix.org/conference/usenixsecurity23/presentation/ahmed-dilawer"
+      },
+      "bibtex": "@inproceedings{ahmed2023spying,\n  title     = {Spying through Your Voice Assistants: Realistic Voice Command Fingerprinting},\n  author    = {Ahmed, Dilawer and Sabir, Aafaq and Das, Anupam},\n  booktitle = {32nd USENIX Security Symposium},\n  pages     = {2419--2436},\n  year      = {2023}\n}"
+    },
+    {
+      "id": "P6",
+      "year": 2023,
+      "title": "INSPIRE: Instance-Level Privacy-Preserving Transformation for Vehicular Camera Videos",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10230162",
+      "authors": "Zhouyu Li, Ruozhou Yu, Anupam Das, Shaohu Zhang, Huayue Gu, Xiaojian Wang, Fangtong Zhou, <span class=\"me\">Aafaq Sabir</span>, Dilawer Ahmed, and Ahsan Zafar.",
+      "venueShort": "ICCCN",
+      "venueFull": "2023 32nd International Conference on Computer Communications and Networks",
+      "venueExtra": "Honolulu, HI, USA, pp. 1–10",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/10230162"
+      },
+      "bibtex": "@inproceedings{li2023inspire,\n  title     = {INSPIRE: Instance-Level Privacy-Preserving Transformation for Vehicular Camera Videos},\n  author    = {Li, Zhouyu and Yu, Ruozhou and Das, Anupam and Zhang, Shaohu and Gu, Huayue and Wang, Xiaojian and Zhou, Fangtong and Sabir, Aafaq and Ahmed, Dilawer and Zafar, Ahsan},\n  booktitle = {2023 32nd International Conference on Computer Communications and Networks (ICCCN)},\n  pages     = {1--10},\n  year      = {2023},\n  address   = {Honolulu, HI, USA},\n  publisher = {IEEE}\n}"
+    },
+    {
+      "id": "P7",
+      "year": 2023,
+      "title": "Speaker Orientation-Aware Privacy Control to Thwart Misactivation of Voice Assistants",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10202649",
+      "authors": "Shaohu Zhang, <span class=\"me\">Aafaq Sabir</span>, and Anupam Das.",
+      "venueShort": "DSN",
+      "venueFull": "2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks",
+      "venueExtra": "Porto, Portugal, pp. 597–610",
+      "links": {
+        "pdf": "https://ieeexplore.ieee.org/abstract/document/10202649"
+      },
+      "bibtex": "@inproceedings{zhang2023speaker,\n  title     = {Speaker Orientation-Aware Privacy Control to Thwart Misactivation of Voice Assistants},\n  author    = {Zhang, Shaohu and Sabir, Aafaq and Das, Anupam},\n  booktitle = {2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)},\n  pages     = {597--610},\n  year      = {2023},\n  address   = {Porto, Portugal},\n  publisher = {IEEE}\n}"
+    },
+    {
+      "id": "P8",
+      "year": 2022,
+      "title": "Hey Alexa, Who Am I Talking to?: Analyzing Users' Perception and Awareness Regarding Third-party Alexa Skills",
+      "url": "https://programs.sigchi.org/chi/2022/program/content/72167",
+      "authors": "<span class=\"me\">Aafaq Sabir</span>, Evan Lafontaine, and Anupam Das.",
+      "venueShort": "CHI",
+      "venueFull": "CHI Conference on Human Factors in Computing Systems",
+      "venueExtra": "April 29–May 5, 2022, New Orleans, LA, USA. ACM, 15 pages",
+      "links": {
+        "pdf": "https://programs.sigchi.org/chi/2022/program/content/72167"
+      },
+      "bibtex": "@inproceedings{sabir2022hey,\n  title     = {Hey Alexa, Who Am I Talking to?: Analyzing Users' Perception and Awareness Regarding Third-party Alexa Skills},\n  author    = {Sabir, Aafaq and Lafontaine, Evan and Das, Anupam},\n  booktitle = {CHI Conference on Human Factors in Computing Systems},\n  year      = {2022},\n  address   = {New Orleans, LA, USA},\n  publisher = {ACM},\n  pages     = {15}\n}"
+    },
+    {
+      "id": "P9",
+      "year": 2022,
+      "title": "Analyzing the Impact and Accuracy of Facebook Activity on Facebook's Ad-Interest Inference Process",
+      "url": "https://doi.org/10.1145/3512923",
+      "authors": "<span class=\"me\">Aafaq Sabir</span>, Evan Lafontaine, and Anupam Das.",
+      "venueShort": "CSCW",
+      "venueFull": "Proc. ACM Hum.-Comput. Interact.",
+      "venueExtra": "6, CSCW1, Article 76, April 2022, 34 pages",
+      "links": {
+        "pdf": "https://doi.org/10.1145/3512923"
+      },
+      "bibtex": "@article{sabir2022analyzing,\n  title   = {Analyzing the Impact and Accuracy of Facebook Activity on Facebook's Ad-Interest Inference Process},\n  author  = {Sabir, Aafaq and Lafontaine, Evan and Das, Anupam},\n  journal = {Proc. ACM Hum.-Comput. Interact.},\n  volume  = {6},\n  number  = {CSCW1},\n  pages   = {1--34},\n  year    = {2022},\n  doi     = {10.1145/3512923}\n}"
+    },
+    {
+      "id": "P10",
+      "year": 2021,
+      "title": "Understanding People's Attitude and Concerns towards Adopting IoT Devices",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3411763.3451633",
+      "authors": "Evan Lafontaine, <span class=\"me\">Aafaq Sabir</span>, and Anupam Das.",
+      "venueShort": "CHI EA",
+      "venueFull": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+      "venueExtra": "2021",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/abs/10.1145/3411763.3451633"
+      },
+      "bibtex": "@inproceedings{lafontaine2021understanding,\n  title     = {Understanding People's Attitude and Concerns towards Adopting IoT Devices},\n  author    = {Lafontaine, Evan and Sabir, Aafaq and Das, Anupam},\n  booktitle = {CHI Conference on Human Factors in Computing Systems Extended Abstracts},\n  year      = {2021},\n  publisher = {ACM}\n}"
+    },
+    {
+      "id": "P11",
+      "year": 2021,
+      "title": "Understanding the Privacy Implications of Adblock Plus's Acceptable Ads",
+      "url": "https://dl.acm.org/doi/10.1145/3433210.3437536",
+      "authors": "Ahsan Zafar, <span class=\"me\">Aafaq Sabir</span>, Dilawer Ahmed, and Anupam Das.",
+      "venueShort": "ASIACCS",
+      "venueFull": "ACM ASIA Conference on Computer and Communications Security",
+      "venueExtra": "2021",
+      "links": {
+        "pdf": "https://dl.acm.org/doi/10.1145/3433210.3437536"
+      },
+      "bibtex": "@inproceedings{zafar2021understanding,\n  title     = {Understanding the Privacy Implications of Adblock Plus's Acceptable Ads},\n  author    = {Zafar, Ahsan and Sabir, Aafaq and Ahmed, Dilawer and Das, Anupam},\n  booktitle = {ACM ASIA Conference on Computer and Communications Security (ASIACCS)},\n  year      = {2021},\n  publisher = {ACM}\n}"
+    }
+  ],
+  "posters": [
+    {
+      "title": "Automated Interaction With Smart Virtual Assistants Voice Apps Using Large Language Models",
+      "authors": "<span class=\"me\">Aafaq Sabir</span> and Anupam Das.",
+      "venue": "USENIX Security '23"
+    },
+    {
+      "title": "Enhancing Security and Privacy Control for Voice Assistants Using Speaker Orientation",
+      "authors": "Shaohu Zhang, <span class=\"me\">Aafaq Sabir</span>, and Anupam Das.",
+      "venue": "WiSec '23"
+    },
+    {
+      "title": "Understanding People's Attitude and Concerns towards Adopting IoT Devices",
+      "authors": "Evan Lafontaine, <span class=\"me\">Aafaq Sabir</span>, and Anupam Das.",
+      "venue": "CHI Extended Abstracts '21"
+    }
+  ],
+  "teaching": [
+    {
+      "role": "Instructor & Administrator",
+      "course": "CSC 116 — Intro to Programming in Java",
+      "institution": "NCSU",
+      "date": "Summer 2025"
+    },
+    {
+      "role": "Teaching Assistant",
+      "course": "CSC 574 — Computer and Network Security",
+      "institution": "NCSU",
+      "date": "Jan — May 2023",
+      "detail": "Delivered lecture on Anonymous Communication"
+    }
+  ],
+  "awards": [
+    {
+      "icon": "🏆",
+      "title": "Best Paper Runner-Up Award",
+      "detail": "PETS 2026"
+    },
+    {
+      "icon": "🐛",
+      "title": "$200 Bug Bounty",
+      "detail": "Amazon Vulnerability Research Program — Devices, 2024"
+    },
+    {
+      "icon": "✈️",
+      "title": "Travel Award — IEEE S&P 2025",
+      "detail": "$1,000"
+    },
+    {
+      "icon": "✈️",
+      "title": "Travel Award — USENIX Security 2023",
+      "detail": "$1,000"
+    },
+    {
+      "icon": "✈️",
+      "title": "SIGCHI Gary Marsden Travel Award 2022",
+      "detail": "$700"
+    },
+    {
+      "icon": "✈️",
+      "title": "Travel Award — NCSU CSC Dept 2022",
+      "detail": "$1,000"
+    }
+  ],
+  "fellowships": [
+    {
+      "title": "Mentored Teaching Fellow",
+      "date": "Jan 2026 — May 2026",
+      "detail": "Selected as Mentored Teaching Fellow for the course CSC 433: Privacy in the Digital Age."
+    }
+  ],
+  "service": [
+    {
+      "role": "Program Committee",
+      "venue": "ICWSM 2026"
+    },
+    {
+      "role": "Invited Reviewer",
+      "venue": "CSCW 2026"
+    }
+  ],
+  "mentoring": [
+    {
+      "program": "Summer Research Mentor (NCSSM)",
+      "mentees": "Adrtita Fuad",
+      "year": "2024"
+    },
+    {
+      "program": "BS Independent Research Mentor (NCSU)",
+      "mentees": "Divya Srinivasan",
+      "year": "2023–2024"
+    },
+    {
+      "program": "MS Independent Research Mentor (NCSU)",
+      "mentees": "Pratik Devnani",
+      "year": "2023"
+    },
+    {
+      "program": "Summer Research Mentor (KAU)",
+      "mentees": "Abdulaziz Altamimi, Jasser Al-Ahmadi",
+      "year": "2022"
+    },
+    {
+      "program": "Summer Research Mentor (NCSSM)",
+      "mentees": "Jonathan Liang, Eric Ge",
+      "year": "2022"
+    }
+  ],
+  "skills": {
+    "Analytics & Research": [
+      "Fine-tuning LLMs",
+      "ML (TensorFlow)",
+      "Statistical Analysis",
+      "Qualitative/Quantitative Methods",
+      "Algorithmic Auditing",
+      "Causal Inference"
+    ],
+    "Cloud": [
+      "AWS",
+      "GCP",
+      "Local Org Servers"
+    ],
+    "Dev Stack": [
+      "Node.js",
+      "Vue.js",
+      "Express",
+      "MongoDB",
+      "Browser Extensions Development",
+      "Android Development"
+    ],
+    "Languages & Tools": [
+      "Python",
+      "R",
+      "C/C++",
+      "JavaScript",
+      "Java",
+      "SQL",
+      "Docker"
+    ]
+  },
+  "experience": [
+    {
+      "org": "North Carolina State University",
+      "date": "Aug 2021 – Present",
+      "role": "Graduate Research Assistant",
+      "detail": "Department of Computer Science, WSPR Lab"
+    },
+    {
+      "org": "Allthenticate",
+      "date": "May – Aug 2023",
+      "role": "Software Engineering Intern",
+      "detail": "Houston, TX — Admin portal (Flask, Vue 3, MongoDB, SQL)"
+    },
+    {
+      "org": "Educative.io",
+      "date": "Aug 2020 – Sep 2021",
+      "role": "Technical Content Engineer",
+      "detail": "Created Vue 3 and programming language courses"
+    },
+    {
+      "org": "Lahore University of Management Sciences (LUMS)",
+      "date": "2018 – 2020",
+      "role": "Teaching Assistant",
+      "detail": "CS 100 (2018), CS 200 (2019), CS 100 (2020)"
+    }
+  ],
+  "contact": {
+    "email": {
+      "user": "asabir2",
+      "domain": "ncsu",
+      "tld": "edu"
+    },
+    "phone": "+1 (919) 501-1591",
+    "address": [
+      "Aafaq Sabir",
+      "890 Oval Drive, Box 8206",
+      "Engineering Building II",
+      "Raleigh, NC 27695-8206"
+    ]
+  }
+}
