@@ -199,8 +199,8 @@ a:hover {
 }
 
 .hero-photo {
-  width: 130px;
-  height: 130px;
+  width: 156px;
+  height: 156px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid var(--border-color);
