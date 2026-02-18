@@ -112,7 +112,8 @@
       "venueFull": "2025 IEEE Symposium on Security and Privacy",
       "venueExtra": "San Francisco, CA, USA, pp. 4321–4339",
       "links": {
-        "pdf": "files/SP2025.pdf"
+        "pdf": "files/SP2025.pdf",
+        "code": "https://github.com/Aafaq52/alexa-skill-ad-detection"
       },
       "bibtex": "@inproceedings{sabir2025analyzing,\n  title     = {Analyzing Ad Prevalence, Characteristics, and Compliance in Alexa Skills},\n  author    = {Sabir, Aafaq and S.B., Abhinaya and Ahmed, Dilawer and Das, Anupam},\n  booktitle = {2025 IEEE Symposium on Security and Privacy (SP)},\n  pages     = {4321--4339},\n  year      = {2025},\n  address   = {San Francisco, CA, USA},\n  publisher = {IEEE}\n}"
     },
